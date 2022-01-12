@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/khushbooraikwar95/100-days-of-code/blob/Khushboo/NOTES/Cheers-removebg-preview.jpg)](https://khushbooraikwar95.github.io)
 
 <h1 align="center">Hi 👋, I'm Khushboo! 👽</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
