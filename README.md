@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khushr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushr6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushboo-raikwar-25a83291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushboo-raikwar-25a83291/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khushboo-raikwar-25a83291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushboo-raikwar-25a83291/" height="30" width="40" /></a>
 <a href="https://fb.com/khushboo.raikwar.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khushboo.raikwar.54" height="30" width="40" /></a>
 <a href="https://instagram.com/khush_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khush_kr" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/khush96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/khush96" height="30" width="40" /></a>
