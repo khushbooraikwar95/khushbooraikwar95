@@ -33,6 +33,6 @@
 
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushbooraikwar95&show_icons=true&locale=en&theme=dark"" alt="khushbooraikwar95" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushbooraikwar95&show_icons=true&locale=en&theme=light"" alt="khushbooraikwar95" />
 </p>
 
