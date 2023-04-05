@@ -1,4 +1,3 @@
-![logo](https://github.com/khushbooraikwar95/khushbooraikwar95/blob/main/khushB.jpg)
 <h1 align="center">Hi 👋, I'm Khushboo! 👽</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
