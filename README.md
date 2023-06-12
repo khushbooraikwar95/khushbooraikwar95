@@ -40,11 +40,11 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khushbooraikwar95&show_icons=true&locale=en&layout=compact" alt="khushbooraikwar95" theme ="dark"/></p>
+<p align="left"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khushbooraikwar95&show_icons=true&locale=en&layout=compact&theme ="dark"" alt="khushbooraikwar95" /></p>
 
 
 <h2 align="center">My GitHub Stats</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushbooraikwar95&show_icons=true&locale=en&theme=light"" alt="khushbooraikwar95" />
+<p align="left">
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushbooraikwar95&show_icons=true&locale=en&theme=dark"" alt="khushbooraikwar95" />
 </p>
 
