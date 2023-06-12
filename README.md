@@ -35,11 +35,11 @@
 
 
 
-<p align="left"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khushbooraikwar95&show_icons=true&locale=en&layout=compact" alt="khushbooraikwar95" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khushbooraikwar95&show_icons=true&locale=en&layout=compact&theme=dark" alt="khushbooraikwar95" /></p>
 
 
-<h2 align="center">My GitHub Stats</h2>
-<p align="center">
+<h2 align="left">My GitHub Stats</h2>
+<p align="left">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushbooraikwar95&show_icons=true&locale=en&theme=dark"" alt="khushbooraikwar95" />
 </p>
 
