@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushboo! 👽</h1>
 <h3 align="center">Full Stack : A developer who can't say No 👽 </h3>
 
-<p align="left"> <a href="https://twitter.com/khushr6" target="blank"><img src="https://img.shields.io/twitter/follow/khushr6?logo=twitter&style=for-the-badge" alt="khushr6" /></a> </p>
+[![Twitter](https://img.shields.io/badge/Follow-%40khushr6-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/khushr6)
 
 <a href="https://app.daily.dev/khushR"><img  align="right" src="https://api.daily.dev/devcards/a26c924f429f469f8d1c01d343918968.png?r=js0" width="400" alt="Khushboo Raikwar's Dev Card"/></a>
 
