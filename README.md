@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushboo! 👽</h1>
-<h3 align="center">const About = (JavaScript) => (React.js, Next.js, Node.js)</h3>
+<h3 align="center">Full Stack : A developer who can't say No 👽 </h3>
 
 <p align="left"> <a href="https://twitter.com/khushr6" target="blank"><img src="https://img.shields.io/twitter/follow/khushr6?logo=twitter&style=for-the-badge" alt="khushr6" /></a> </p>
 
