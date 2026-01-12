@@ -5,7 +5,7 @@
 
 <a href="https://app.daily.dev/khushR"><img  align="right" src="https://api.daily.dev/devcards/a26c924f429f469f8d1c01d343918968.png?r=js0" width="400" alt="Khushboo Raikwar's Dev Card"/></a>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning *WEB3**
 
 - 📫 How to reach me **khushboor3011@gmail.com**
 
