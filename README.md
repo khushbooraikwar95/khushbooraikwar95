@@ -23,7 +23,7 @@ Building scalable web apps while exploring AI Engineering, RAG systems, and Agen
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,python,tailwindcss" />
 </p>
 
 ### Backend & Database
