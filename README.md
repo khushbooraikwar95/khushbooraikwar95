@@ -68,4 +68,4 @@ Building scalable web apps while exploring AI Engineering, RAG systems, and Agen
 
 ## ✨ Quote I Believe In
 
-> “The future belongs to people who keep learning...”
+> “The future belongs to people who keep learning.”
