@@ -33,7 +33,16 @@ Building scalable web apps while exploring AI Engineering, RAG systems, and Agen
 
 ### AI & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,aws,gcp" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,langchain,pinecone,vercel,githubactions" />
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="huggingface" />
 </p>
 
 ### Tools
